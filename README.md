@@ -6,7 +6,7 @@ Write your name below the line:
 Peter Wurtenberger
 
 # Adding more flavor to the readme file
-### practicing editing the clone
+### more practice editing the clone
 ##### this should be the smallest header
 =======
 
