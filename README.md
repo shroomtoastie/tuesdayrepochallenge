@@ -4,6 +4,7 @@ Write your name below the line:
 --------------------------------------------------------
 
 Peter Wurtenberger
+
 <<<<<<< HEAD
 ......
 # Adding more flavor to the readme file
